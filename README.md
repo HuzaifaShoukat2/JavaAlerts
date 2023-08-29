@@ -1,2 +1,2 @@
-# jvaalerts
+# JavaAlerts 
 alerts assignment
